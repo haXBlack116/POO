@@ -1,0 +1,2 @@
+1;You;Win;25
+2;You;Linux;78
